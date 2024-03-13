@@ -1,4 +1,4 @@
-# GitHub Guideline  
+# HKNU.Biolab_Guideline
 > GitHub 설치 및 그룹 프로젝트 초대 가이드라인  
 > Visual Studio 및 GitHub Desktop 설치 매뉴얼  
 
